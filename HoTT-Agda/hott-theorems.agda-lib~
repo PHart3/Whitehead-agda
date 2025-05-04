@@ -1,3 +1,0 @@
-name: hott-theorems-whitehead
-depend: hott-core-whitehead
-include: ./
