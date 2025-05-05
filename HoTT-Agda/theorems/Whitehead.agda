@@ -7,7 +7,6 @@ open import lib.Equivalence2
 open import lib.types.Pi
 open import lib.types.Truncation
 open import lib.types.LoopSpace
-open import lib.types.TLevel
 open import lib.groups.HomotopyGroup
 
 -- Whitehead's theorem for truncated types 
